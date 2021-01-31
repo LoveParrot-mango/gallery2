@@ -1,0 +1,62 @@
+t1 {
+    font-size: 90px;
+    font-family: cursive;
+    color: red;
+}
+.container{
+    text-align: center;
+}
+
+#img1{
+  width: 60%;
+    text-align: center;
+}
+
+.img2{
+    width: 180px;
+    height: 130px;
+}
+
+.thumb{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.modal-content{
+  margin-top: 100px;
+}
+
+.img_modal{
+    display: inline-block;
+}
+
+.modal-body{
+    text-align: center
+}
+
+#contact iframe{
+    width: 100%;
+}
+
+.contact_1 h3{
+    display: inline;
+}
+
+.contact_1 a{
+    text-shadow: none;
+}
+
+#myCarousel img{
+    height: 550px;
+}
+
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
+
+#s {
+    height=90px;
+}
